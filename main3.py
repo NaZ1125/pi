@@ -11,3 +11,5 @@ for i in range(n):
     count=count+1
 a=4*count/n
 print(a)
+
+#소수 2번째부터는 pi값과 일치하지 않음.

@@ -14,3 +14,5 @@ for i in range(n):
     side = ( 2 - ( 4 - side**2 ) **.5 ) **.5
     pi = side * polygon / diameter
     print(polygon, ":", pi, math.pi-pi)
+
+#1536각형에서 1/100000 자리까지 정확한 3.14159를 구함.
