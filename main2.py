@@ -1,7 +1,5 @@
 #아르키메데스 방식으로 pi값 구하기
 
-#
-
 import math
 
 diameter=2 # 원의 지름 2
